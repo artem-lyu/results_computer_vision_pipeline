@@ -1,1 +1,1 @@
-Computer Vision pipeline for predicting specific children from preschool vest-mounted cameras
+Computer Vision pipeline for predicting subjects from vest-mounted cameras
